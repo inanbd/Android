@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kaiza\AndroidStudioProjects\Web Calculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c5148f1a4ec20663b34cbac9dfadb952e354e4fb">
+        <dex dex="C:\Users\kaiza\AndroidStudioProjects\Web Calculator\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e45ce74937e14f7bcd56238d71a9001b33eb9209.jar" />
+    </item>
+    <item
+        jar="C:\Users\kaiza\AndroidStudioProjects\Web Calculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ce9b6f20a3a9b7d91be1091d49f0959cc5021a1d">
+        <dex dex="C:\Users\kaiza\AndroidStudioProjects\Web Calculator\app\build\intermediates\pre-dexed\debug\instant-run_9e74574736bc25b48db3079283f5795c5ac9e31a.jar" />
+    </item>
+
+</items>
